@@ -236,7 +236,7 @@ int main()
 
 Setup();
 
-while (!gameover) {
+while (!game over) {
 
 Draw ();
 
