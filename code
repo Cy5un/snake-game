@@ -242,10 +242,10 @@ Draw ();
 
 Input ();
 
-algothm ();
+algorithm ();
 
 }
 
-retn 0;
+return 0;
 
 }
